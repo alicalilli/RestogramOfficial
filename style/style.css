@@ -1,0 +1,191 @@
+
+		body{
+			background:  #303030;
+			overflow-x: hidden;
+		}
+		#navBar{
+			position: absolute;
+			width: 100%;
+			height: 9%;
+			left: 0px;
+			top: 5%;
+			background: #FFFFFF;
+			background-blend-mode: lighten;
+			
+		}
+		#logo{
+			position: absolute;
+			width: 280px;
+			height: 280px;
+			top: -168%;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#feedback{
+			position: absolute;
+			width: 42px;
+			height: 42px;
+			top: 16%;
+			left: 85%;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#home{
+			position: absolute;
+			font-family: arial;
+			font-size: 17px;
+			left: 67%;
+			top: 5%;
+			text-decoration: none;
+			color: black;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#ourTeam{
+			position: absolute;
+			font-family: arial;
+			font-size: 17px;
+			left: 72%;
+			top: 5%;
+			text-decoration: none;
+			color: black;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#contact{
+			position: absolute;
+			font-size: 17px;
+			font-family: arial;
+			left: 79%;
+			top: 5%;
+			text-decoration: none;
+			color: black;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#loginBtn{
+			position: absolute;
+			box-sizing: border-box;
+			position: absolute;
+			width: 90px;
+			height: 33px;
+			left: 90%;
+			top: 20%;
+			background: #ffffff;
+			border: 2px solid #008037;
+			border-radius: 16px;
+			font-family: arial;
+			font-size: 17px;
+			cursor: pointer;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		
+		#resBcg{
+			position: absolute;
+			border: 2px solid #ffffff;
+			left: 20%;
+			top: 60%;
+			width: 800px;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#mainPageTitle{
+			position: absolute;
+			font-size: 43px;
+			color: #ffffff;
+			font-family: arial;
+			top: 25%;
+			left: 10%;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+
+		}
+		#mainPageTitle2{
+			position: absolute;
+			font-size: 43px;
+			color: #008037;
+			font-family: arial;
+			top: 25%;
+			left: 28.4%;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#mainPageTitle3{
+			position: absolute;
+			font-family: arial;
+			color: #ffffff;
+			top: 35%;
+			left: 10.5%;
+			font-size: 14px;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+
+		}
+		#bcg1{
+			position: absolute;
+			width: 70%;
+			left: 13%;
+			top: 5%;
+			z-index: -1;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#bcg2{
+			position: absolute;
+			width: 60%;
+			left: -1%;
+			top: 13%;
+			z-index: -1;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#bcg3{
+			position: absolute;
+			width: 60%;
+			left: 40%;
+			top: 12%;
+			z-index: -1;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none; 
+		}
+		#map{
+			position: absolute;
+			width: 220px;
+			top: 70%;
+			left: 21%;
+			z-index: 2;
+			border: 2px solid black;
+
+
+		}
+		#viewMap{
+			position: absolute;
+			width: 80px;
+			height: 40px;
+			background-color: #FFFFFF;
+			border: 2px solid black;
+			font-family: arial;
+			font-size: 14px;
+		    cursor: pointer;
+			top: 76.5%;
+			left: 26.5%;
+			z-index: 3;	
+		}
+	
